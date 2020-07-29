@@ -1,5 +1,5 @@
 # **Finding Lane Lines on the Road** 
-[![Self-Driving Car NanoDegree]
+
 
 <img src="examples/laneLines_thirdPass.jpg" width="480" alt="Combined Image" />
 
